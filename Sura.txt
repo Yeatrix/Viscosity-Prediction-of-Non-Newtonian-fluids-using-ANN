@@ -1,0 +1,27 @@
+Soft Computing and Multi-criteria Decision Making:
+ANN, Fuzzy logic, Neuro-fuzzy System, MCDM and fuzzy MCDM. 
+
+
+""Abhijit Majumdar , Prabal Kr. Majumdar, Bijan Sarkar, Prediction of single yarn tenacity of ring and rotor spun yarns from the HVI results using artificial neural networks, Indian Journal of Fibre and Textile Research, 29 (2004) 157-162. [Impact factor: 0.825].
+
+Anindya Ghosh, Abhijit Majumdar, Characterizing the Tensile Properties of Spun Yarns using Bivariate Normal Distribution to Predict Yarn Breakage during Warping, Fibers and Polymers, 11 (2010) 642-647, doi.org/ 10.1007/s12221-010-0642-5, [Impact factor: 2.347].
+
+Swapna Mishra, Abhijit Majumdar, Bhupebdra Singh Butola, Modeling of yarn strength utilization in cotton woven fabrics using multiple linear regressions, Journal of Engineered Fibres and Fabrics, 9 (2014) 105-111, doi.org/10.1177/15589250140090021 [Impact factor: 2.00].
+
+Abhijit Majumdar, Modeling of thermal conductivity of knitted fabrics made from bamboo fibre blended yarns using artificial neural network, Journal of the Textile Institute, 102 (2011) 752-762, doi.org/10.1080/00405000.2010.516929 [Impact factor: 1.880].""
+
+
+--------------------------------------------------------------------------
+
+
+R1
+-two types of fluids
+-non-newtonian in which high speed impact causes drastic change in viscosity and this property is utilised in ballistic textiles.
+-thats why its necessary to know its behaviour under different conditions first hand to prevent future failure.
+-models are there but none are capable enough to accurately understand the beahviour of discontinuous STF
+-preparation of fluid,analysis (rheological),methodolgy of model development
+
+things to know-possible improvements , what was accuarcy, objective,diff routes opened to me,experimental work to be done, expected time roughly,what were the challenges and shortcomings , how did they got to the equation.
+
+R2
+-
